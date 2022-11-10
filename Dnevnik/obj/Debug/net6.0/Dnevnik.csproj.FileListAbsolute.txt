@@ -1,0 +1,15 @@
+C:\Users\arthu\source\repos\Dnevnik\Dnevnik\bin\Debug\net6.0\Dnevnik.exe
+C:\Users\arthu\source\repos\Dnevnik\Dnevnik\bin\Debug\net6.0\Dnevnik.deps.json
+C:\Users\arthu\source\repos\Dnevnik\Dnevnik\bin\Debug\net6.0\Dnevnik.runtimeconfig.json
+C:\Users\arthu\source\repos\Dnevnik\Dnevnik\bin\Debug\net6.0\Dnevnik.dll
+C:\Users\arthu\source\repos\Dnevnik\Dnevnik\bin\Debug\net6.0\Dnevnik.pdb
+C:\Users\arthu\source\repos\Dnevnik\Dnevnik\obj\Debug\net6.0\Dnevnik.csproj.AssemblyReference.cache
+C:\Users\arthu\source\repos\Dnevnik\Dnevnik\obj\Debug\net6.0\Dnevnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\source\repos\Dnevnik\Dnevnik\obj\Debug\net6.0\Dnevnik.AssemblyInfoInputs.cache
+C:\Users\arthu\source\repos\Dnevnik\Dnevnik\obj\Debug\net6.0\Dnevnik.AssemblyInfo.cs
+C:\Users\arthu\source\repos\Dnevnik\Dnevnik\obj\Debug\net6.0\Dnevnik.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\Dnevnik\Dnevnik\obj\Debug\net6.0\Dnevnik.dll
+C:\Users\arthu\source\repos\Dnevnik\Dnevnik\obj\Debug\net6.0\refint\Dnevnik.dll
+C:\Users\arthu\source\repos\Dnevnik\Dnevnik\obj\Debug\net6.0\Dnevnik.pdb
+C:\Users\arthu\source\repos\Dnevnik\Dnevnik\obj\Debug\net6.0\Dnevnik.genruntimeconfig.cache
+C:\Users\arthu\source\repos\Dnevnik\Dnevnik\obj\Debug\net6.0\ref\Dnevnik.dll
